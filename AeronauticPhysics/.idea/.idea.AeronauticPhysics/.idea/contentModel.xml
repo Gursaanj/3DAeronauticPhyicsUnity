@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gursaanj\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gursaanj\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_AeronauticPhysics.-2068291560.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Gursaanj\Documents\GitHub\3DAeronauticPhyicsUnity\AeronauticPhysics" t="IncludeRecursive">
+      <e p="AeronauticPhysics.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="IndiePixel_Framework" t="Include">
+          <e p="Core" t="Include">
+            <e p="Code" t="Include">
+              <e p="Cameras" t="Include">
+                <e p="IP_CameraSwitcher_Util.cs" t="Include" />
+                <e p="IP_RotateAroundPoint_Util.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="IP_Player_Data.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="Camera_Helper" t="Include">
+                  <e p="IP_Camera_Helpers.cs" t="Include" />
+                </e>
+                <e p="Designer_Dashboard" t="Include">
+                  <e p="IP_DesignerDash_Window.cs" t="Include" />
+                </e>
+                <e p="IP_Base_Window.cs" t="Include" />
+                <e p="IP_Menus.cs" t="Include" />
+                <e p="Level_Tools" t="Include">
+                  <e p="OBJ_Export" t="Include">
+                    <e p="IP_OBJ_Export.cs" t="Include" />
+                  </e>
+                  <e p="Object_Replacer" t="Include">
+                    <e p="IP_ObjectReplacer_Window.cs" t="Include" />
+                  </e>
+                  <e p="Vertex_Painter" t="Include">
+                    <e p="Art" t="Include">
+                      <e p="EF_MeshPainter_VTXColor.shader" t="Include" />
+                    </e>
+                    <e p="IP_VertexPainter_Data.cs" t="Include" />
+                    <e p="IP_VertexPainter_Utils.cs" t="Include" />
+                    <e p="IP_VertexPainter_Window.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Project_Helper" t="Include">
+                  <e p="IP_ProjectFolders_Window.cs" t="Include" />
+                </e>
+                <e p="Scene_Helper" t="Include">
+                  <e p="IP_Grouping_Window.cs" t="Include" />
+                  <e p="IP_Scene_Helpers.cs" t="Include" />
+                  <e p="IP_UI_Helpers.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="IP_Editor_Utils.cs" t="Include" />
+                </e>
+              </e>
+              <e p="FX" t="Include">
+                <e p="Cloth" t="Include">
+                  <e p="IP_ClothWind.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Input" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="IP_MouseInput_Editor.cs" t="Include" />
+                </e>
+                <e p="IP_Global_Input.cs" t="Include" />
+                <e p="IP_Keyboard_Input.cs" t="Include" />
+                <e p="IP_Mouse_Input.cs" t="Include" />
+                <e p="IP_Touch_Input.cs" t="Include" />
+                <e p="IP_Xbox_Input.cs" t="Include" />
+              </e>
+              <e p="Managers" t="Include">
+                <e p="IP_Game_Manager.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="IP_Basic_LitVertexColor.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Sequence" t="Include">
+            <e p="Editor" t="Include">
+              <e p="IP_GameSequence_Editor.cs" t="Include" />
+              <e p="IP_Sequence_Menu.cs" t="Include" />
+            </e>
+            <e p="IP_Action.cs" t="Include" />
+            <e p="IP_Game_Sequence.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Code" t="Include">
+              <e p="Components" t="Include">
+                <e p="IP_Header_Manager.cs" t="Include" />
+                <e p="IP_HealthBar_UI.cs" t="Include" />
+                <e p="IP_Item_Button.cs" t="Include" />
+                <e p="IP_Menu_Manager.cs" t="Include" />
+              </e>
+              <e p="IP_Base_Screen.cs" t="Include" />
+              <e p="IP_UI_System.cs" t="Include" />
+              <e p="Loading" t="Include">
+                <e p="IP_Loader_Manager.cs" t="Include" />
+              </e>
+              <e p="Screen_Types" t="Include">
+                <e p="IP_Timed_Screen.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
